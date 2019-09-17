@@ -6,10 +6,7 @@
     </artifacts-to-build>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b2af665d-e0f6-4eee-b86f-cc9007b6ce4d" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/web/index.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/web/index.jsp" afterDir="false" />
-    </list>
+    <list default="true" id="b2af665d-e0f6-4eee-b86f-cc9007b6ce4d" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -147,7 +144,7 @@
       <workItem from="1568724407802" duration="766000" />
       <workItem from="1568725500881" duration="1545000" />
       <workItem from="1568730091562" duration="453000" />
-      <workItem from="1568730564183" duration="278000" />
+      <workItem from="1568730564183" duration="527000" />
     </task>
     <task id="LOCAL-00001" summary="九月十七号">
       <created>1568710484889</created>
