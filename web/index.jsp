@@ -11,7 +11,7 @@
     <title>首页</title>
   </head>
   <body>
-  首页1111
+  管江宇
   <h3>欢迎你:${pageContext.request.getAttribute("username")}</h3>
   <h3>这里是response跳转的用户名:<%=session.getAttribute("username")%></h3>
   <a href="Login.html">点击</a>

@@ -19,8 +19,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="HTML File" />
         <option value="Class" />
+        <option value="HTML File" />
       </list>
     </option>
   </component>
@@ -145,7 +145,9 @@
       <workItem from="1568719740473" duration="2526000" />
       <workItem from="1568723821950" duration="541000" />
       <workItem from="1568724407802" duration="766000" />
-      <workItem from="1568725500881" duration="281000" />
+      <workItem from="1568725500881" duration="1545000" />
+      <workItem from="1568730091562" duration="453000" />
+      <workItem from="1568730564183" duration="278000" />
     </task>
     <task id="LOCAL-00001" summary="九月十七号">
       <created>1568710484889</created>
@@ -154,7 +156,14 @@
       <option name="project" value="LOCAL" />
       <updated>1568710484889</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="twow">
+      <created>1568725886884</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1568725886884</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -175,6 +184,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="九月十七号" />
-    <option name="LAST_COMMIT_MESSAGE" value="九月十七号" />
+    <MESSAGE value="twow" />
+    <option name="LAST_COMMIT_MESSAGE" value="twow" />
   </component>
 </project>
